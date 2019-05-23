@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/header.scss"],"names":[],"mappings":"AAAA,OACI,OAAA,MACA,MAAA,KACA,iBAAA","file":"style.css","sourcesContent":["header{\r\n    height: 200px;\r\n    width: 100%;\r\n    background-color: orange;\r\n}"]}
